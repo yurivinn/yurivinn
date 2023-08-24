@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yurivinn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Ola, Meu nome é Yuri tenho 23 anos 
+- 👀 Estou iniciando no git a alguns dias
+- 🌱 Gostaria de me especializar nessa area
+- 📫 Para contato
+ insta: @yurivinnicyus	email:yurivinni.vinnicyus@gmail.com
 
 <!---
 yurivinn/yurivinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
